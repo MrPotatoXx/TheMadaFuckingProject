@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1646158675688
+  login: 1646158501635
+money: '13.35'
+last-account-name: MrPotatoXxX
+logoutlocation:
+  world: dc8e4ce8-862b-445b-a32e-9ac3d5d8d947
+  world-name: world
+  x: -13.008630204613995
+  y: 87.0
+  z: 1.2500802541200338
+  yaw: 53.254180908203125
+  pitch: 10.65004825592041

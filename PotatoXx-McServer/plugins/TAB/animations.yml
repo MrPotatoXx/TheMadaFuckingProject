@@ -1,0 +1,118 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+  - '&d-&3--------------'
+  - '&3-&d-&3-------------'
+  - '&3--&d-&3------------'
+  - '&3---&d-&3-----------'
+  - '&3----&d-&3----------'
+  - '&3-----&d-&3---------'
+  - '&3------&d-&3--------'
+  - '&3-------&d-&3-------'
+  - '&3--------&d-&3------'
+  - '&3---------&d-&3-----'
+  - '&3----------&d-&3----'
+  - '&3-----------&d-&3---'
+  - '&3------------&d-&3--'
+  - '&3-------------&d-&3-'
+  - '&3--------------&d-'
+  - '&3-------------&d-&3-'
+  - '&3------------&d-&3--'
+  - '&3-----------&d-&3---'
+  - '&3----------&d-&3----'
+  - '&3---------&d-&3-----'
+  - '&3--------&d-&3------'
+  - '&3-------&d-&3-------'
+  - '&3------&d-&3--------'
+  - '&3-----&d-&3---------'
+  - '&3----&d-&3----------'
+  - '&3---&d-&3-----------'
+  - '&3--&d-&3------------'
+  - '&3-&d-&3-------------'
+  - '&d-&3--------------'
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lPotatoXxMcServer'
+  - '&c&n&lPotatoxMcServer'
+  - '&b&lPotatoxMcServer'
+  - '&b&l&nServerName'
+  - '&e&lPotatoxMcServer'
+  - '&e&n&lPotatoxMcServer'
+web:
+  change-interval: 200
+  texts:
+  
+  - '&ewww.potatox.me'
+  - '&ewww.potatox.me'
+  - '&ewww.potatox.me'
+  - '&6w&eww.potatox.me'
+  - '&ew&6w&ew.potatox.me'
+  - '&eww&6w&e.potatox.me'
+  - '&ewww&6.&epotatox.me'
+  - '&ewww.&6p&eotatox.me'
+  - '&ewww.p&6o&etatox.me'
+  - '&ewww.po&6t&eatox.me'
+  - '&ewww.pot&6a&etox.me'
+  - '&ewww.pota&6t&eox.me'
+  - '&ewww.potat&6o&ex.me'
+  - '&ewww.potato&6x&e.me'
+  - '&ewww.potatox&6.&eme'
+  - '&ewww.potatox.&6m&ee'
+  - '&ewww.potatox.m&6e&e'
+  - '&ewww.potatox.me&6'
+  - '&ewww.potatox.me'
+  - '&ewww.potatox.me'
+  - '&ewww.potatox.me'
+  
+vote:
+  change-interval: 1000
+  texts:
+  - '&avote.potatox.me'
+  - '&a&nvote.potatox.me'
+  - '&5vote.potatox.me'
+  - '&5&nvote.potatox.me'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lW_'
+  - '&7&lW_'
+  - '&7&lWe_'
+  - '&7&lWel_'
+  - '&7&lWelc_'
+  - '&7&lWelco_'
+  - '&7&lWelcom_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcom_'
+  - '&7&lWelco_'
+  - '&7&lWelc_'
+  - '&7&lWel_'
+  - '&7&lWe_'
+  - '&7&lW_'
+  - '&7&lW_'
+time:
+  change-interval: 900
+  texts:
+  # - '&7Time &b%time%'
+  # - '&7> Time &b%time% &7<'
+  # - '&7>> Time &b%time% &7<<'
+  # - '&7>>> Time &b%time% &7<<<'
+  - '&7Date &b%date%'
+  - '&7> Date &b%date% &7<'
+  - '&7>> Date &b%date% &7<<'
+  - '&7>>> Date &b%date% &7<<<'
+ping-tps:
+  change-interval: 5000
+  texts:
+  - '&aPing: &2&n%ping%&r &ams'
+  - '&bServer TPS: &8%tps%'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW

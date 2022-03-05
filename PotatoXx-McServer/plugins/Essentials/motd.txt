@@ -1,0 +1,5 @@
+&#0dd425Bienvenido, {PLAYER}&#0dd425!
+&#0dd425Escribe &c/help&#0dd425 para ver la lista de comandos.
+&#0dd425Escribe &c/list&#0dd425 Para ver a las personas conectadas.
+&#0dd425Jugadores conectados:&c {ONLINE} &#0dd425- Tiempo del mundo:&c {WORLDTIME12}
+&#0dd425Escribe &c/motd&#0dd425 Para ver este mensaje de nuevo.

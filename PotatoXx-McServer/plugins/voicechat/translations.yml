@@ -1,0 +1,15 @@
+player_not_found: Jugador no encontrado.
+client_not_connected: El cliente no logra conectar...
+sending_packet: Enviando paquetes...
+received_packet: Paquete recibido en %s ms
+request_timed_out: La solicitud termino.
+packet_sent: Paquete enviado. Esperando respuesta...
+failed_to_send_packet: 'Fallo en el envío del paquete: %s'
+player_not_connected: Jugador no conectado al chat de voz
+not_connected: No estás conectado al chat de voz
+not_compatible: |-
+  La versión del chat de voz no es compatible con la versión de los servidores.
+  Por favor, instale la versión %s of %s.
+placeholder_api_prefix_uses_voicechat: §a
+placeholder_api_prefix_no_voicechat: §c
+placeholder_api_prefix_disabled: §c
