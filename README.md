@@ -1,1 +1,1 @@
-# TheMadanFuckingProject
+# TheMadaFuckingProject
